@@ -13,16 +13,18 @@ Ministry of Consumer Affairs, Food & Public Distribution
 Agriculture, FoodTech & Rural Development
 
 ## Problem Description
+Farmers face difficulties in finding direct buyers and getting fair prices for their produce. Poor logistics, unpredictable demand, and dependence on middlemen can lead to delays, wastage, and reduced farmer income.
+
 Expected Solution: Create a digital marketplace that:
 
-• Connects farmers/FPOs directly with consumers and bulk buyers.
-• Provides logistics support.
+• Connects farmers/FPOs directly with consumers and bulk buyers.<br>
+• Provides logistics support.<br>
 • Uses AI for demand forecasting and route optimization.
 
 Benefits:
 
-• Better prices for farmers.
-• Lower prices for consumers.
+• Better prices for farmers.<br>
+• Lower prices for consumers.<br>
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
