@@ -36,6 +36,7 @@ Benefits:
 1.Build the app for farmers and buyers.<br>
 2.Use AI to suggest prices and check quality.<br>
 3.Use UPI and GPS for payment and delivery.
+<img width="1536" height="1024" alt="Intermediaries Raise Consumer Prices" src="https://github.com/user-attachments/assets/9f9f11fd-eea2-455e-810e-49a7e3e6f888" />
 
 ## Feasibility and Viability
 1.Easy to use – Simple app with voice support.<br>
