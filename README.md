@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:21/11/2026
+## Reference Number:26009503
+## Name:Jershilin Mahiba.J
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,29 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+1. Farmers list crops by voice/photo and get an AI-based fair price.<br>
+2. Nearby produce is pooled to reduce transport costs.<br>
+3. Farmers receive UPI payment within 24–48 hours.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1.Build the app for farmers and buyers.<br>
+2.Use AI to suggest prices and check quality.<br>
+3.Use UPI and GPS for payment and delivery.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1.Easy to use – Simple app with voice support.<br>
+2.Low cost – Uses existing technology and UPI.<br>
+3.Easy to expand – Can be started in one village and expanded later.<br>
+4.Useful for all – Helps farmers, buyers and transporters.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+1.Farmers – Better prices and faster payments.<br>
+2.Consumers – Fresh and affordable produce.<br>
+3.Transporters – More work and less empty trips.<br>
+4.Rural areas – More jobs and better income.<br>
+5.Environment – Less food waste and pollution.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1. e-NAM (National Agriculture Market): https://enam.gov.in
+2. Bhashini (Indian language AI platform): https://bhashini.gov.in
+3. Agmarknet price data: https://agmarknet.gov.in
